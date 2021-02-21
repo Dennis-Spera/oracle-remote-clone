@@ -11,7 +11,7 @@ source $HOME/.bash_profile
 #
 # Description :
 #
-#     usage: rclone.sh [instance] [yyyymmdd]
+#     usage: rclone.sh -i instance -s server -d [YYYYMMDD]
 #
 #-------------------------------------------------------------------------
 # prerequites:
